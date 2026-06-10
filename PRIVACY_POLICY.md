@@ -84,4 +84,4 @@ We may update this policy from time to time. Changes will be reflected in the "L
 
 ## 10. Contact
 
-If you have questions about this privacy policy, contact us at **privacy@ownthestars.eth** or open an issue at our GitHub repository.
+If you have questions about this privacy policy, contact us at **ownthestars.eth@gmail.com**.
